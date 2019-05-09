@@ -1,8 +1,12 @@
+/*
+    Abdulrahman Tayara
+    15/1/2019
+*/
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <math.h>
 #include <iostream>
-//#include <windows.h>
+#include <windows.h>
 #include "Color.h"
 #include "Grid.h"
 #include "Snake.h"
